@@ -1,3 +1,3 @@
 Hello Git
 
-#this is an change from bug branch
+#this is an change from new-bug branch
